@@ -1,2 +1,2 @@
 ﻿threshold;TN;FP;FN;TP;accuracy;recall_chuva;precision_chuva;f1_chuva;modelo;model_tag;versao_dataset
-0.6;6697;1191;504;1640;0.8310406698564593;0.7649253731343284;0.5793006004945249;0.6592964824120603;xgb_smote_0p4;xgb_smote_0p4_thr055_v1;australia_clima_v9
+0.6;6790;1098;507;1637;0.840011961722488;0.7635261194029851;0.5985374771480805;0.6710391473662636;xgb_smote_0p4;xgb_smote_0p4_thr055_v1;australia_clima_v9
